@@ -2,9 +2,9 @@
 
 ## Author
 
-**Vaishnav S**
-B.Tech Mechanical Engineering
-RIT Kottayam
+**Vaishnav S**|
+B.Tech Mechanical Engineering|
+|RIT Kottayam|
 
 ## Project Overview
 
