@@ -3,8 +3,7 @@
 ## Author
 
 **Vaishnav S**|
-B.Tech Mechanical Engineering|
-|RIT Kottayam|
+B.Tech Mechanical Engineering|RIT Kottayam|
 
 ## Project Overview
 
