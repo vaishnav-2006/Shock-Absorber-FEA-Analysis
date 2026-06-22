@@ -63,8 +63,8 @@ This project was completed as a self-learning exercise to understand CAD modelli
 
 ## Mesh
 
-![Mesh](02_Mesh_Generation.png)
+![Mesh](02_Mesh_Generation.png.png)
 
 ## Static Structural Analysis
 
-![Deformation](03_Static_Total_Deformation.png)
+![Deformation](03_Static_Total_Deformation.png.png)
