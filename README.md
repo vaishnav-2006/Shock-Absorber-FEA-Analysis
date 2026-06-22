@@ -68,3 +68,16 @@ This project was completed as a self-learning exercise to understand CAD modelli
 ## Static Structural Analysis
 
 ![Deformation](03_Static_Total_Deformation.png.png)
+## CAD Model
+
+The SolidWorks shock absorber model used for this project is available in STEP format.
+
+📂 CAD File:
+- [Shock_Absorber.STEP](Shock_Absorber.STEP)
+
+The STEP file can be opened in:
+- SolidWorks
+- CATIA
+- Creo
+- Fusion 360
+- ANSYS SpaceClaim
