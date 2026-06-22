@@ -59,7 +59,7 @@ This project was completed as a self-learning exercise to understand CAD modelli
 * Project Report
 ## CAD Model
 
-![CAD Model](01_Shock_Absorber_CAD_Model.png)
+![CAD Model](01_Shock_Absorber_CAD_Model.png.png)
 
 ## Mesh
 
