@@ -3,7 +3,7 @@
 ## Author
 
 **Vaishnav S**
-Mechanical Engineering Student
+B.Tech Mechanical Engineering
 RIT Kottayam
 
 ## Project Overview
@@ -81,3 +81,21 @@ The STEP file can be opened in:
 - Creo
 - Fusion 360
 - ANSYS SpaceClaim
+## References
+
+This project was developed as a self-learning exercise.
+
+References used:
+
+- ANSYS Documentation
+- SolidWorks Documentation
+- Various educational YouTube tutorials on FEA and vibration analysis
+  ## Skills Demonstrated
+
+- SolidWorks CAD Modeling
+- ANSYS Workbench
+- Static Structural Analysis
+- Modal Analysis
+- Random Vibration Analysis
+- Mesh Generation
+- Engineering Documentation
