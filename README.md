@@ -73,7 +73,7 @@ This project was completed as a self-learning exercise to understand CAD modelli
 The SolidWorks shock absorber model used for this project is available in STEP format.
 
 📂 CAD File:
-- [Shock_Absorber.STEP](Shock_Absorber.STEP)
+- [Shock_Absorber.STEP](shock absorber asembled.SLDASM)
 
 The STEP file can be opened in:
 - SolidWorks
