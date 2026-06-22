@@ -20,8 +20,6 @@ RIT Kottayam
 - Natural Frequencies: 618.78 Hz to 1226.7 Hz
 - Random Vibration Equivalent Stress: 1987 Pa
 
-## Project Images
-(Insert screenshots here)
 
 ## Learning Outcome
 This project was completed as a self-learning exercise to understand CAD modelling, meshing, structural analysis, modal analysis, and vibration analysis using ANSYS Workbench.
